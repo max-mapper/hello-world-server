@@ -11,5 +11,8 @@
     "url": "http://localhost:8080/testrepo.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hat": "0.0.3"
+  }
 }

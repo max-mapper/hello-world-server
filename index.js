@@ -1,2 +1,3 @@
 var http = require('http')
-http.createServer(function(req, res) { res.end('hi2!') }).listen(8081)
+var hat = require('hat')
+http.createServer(function(req, res) { res.end(hat()) }).listen(8081)
