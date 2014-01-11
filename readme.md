@@ -1,6 +1,1 @@
-hello
-world
-wooo
-weee
-woooo
-waaaaa
+simple server that generates random numbers
